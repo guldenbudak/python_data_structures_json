@@ -1,0 +1,1570 @@
+[
+  {
+    "ts": "2026-02-04T02:03:00",
+    "level": "ERROR",
+    "service": "selamet",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T02:03:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T09:13:00",
+    "level": "ERROR",
+    "service": "order",
+    "msg": "invalid address",
+    "code": 401
+  },
+  {
+    "ts": "2026-02-04T15:48:00",
+    "level": "ERROR",
+    "service": "email",
+    "msg": "template not found",
+    "code": 401
+  },
+  {
+    "ts": "2026-02-04T03:02:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T16:02:00",
+    "level": "ERROR",
+    "service": "email",
+    "msg": "smtp rejected",
+    "code": 401
+  },
+  {
+    "ts": "2026-02-03T14:23:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T08:29:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T21:48:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T08:41:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T13:01:00",
+    "level": "ERROR",
+    "service": "order",
+    "msg": "db deadlock",
+    "code": 400
+  },
+  {
+    "ts": "2026-02-05T04:38:00",
+    "level": "ERROR",
+    "service": "payment",
+    "msg": "timeout",
+    "code": 503
+  },
+  {
+    "ts": "2026-02-03T21:39:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T01:34:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T16:36:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T10:55:00",
+    "level": "ERROR",
+    "service": "payment",
+    "msg": "insufficient funds",
+    "code": 429
+  },
+  {
+    "ts": "2026-02-03T13:39:00",
+    "level": "ERROR",
+    "service": "search",
+    "msg": "query timeout",
+    "code": 503
+  },
+  {
+    "ts": "2026-02-04T17:05:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T17:51:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T09:31:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T18:23:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T05:10:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "token expired",
+    "code": 429
+  },
+  {
+    "ts": "2026-02-03T21:12:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T19:02:00",
+    "level": "ERROR",
+    "service": "email",
+    "msg": "template not found",
+    "code": 408
+  },
+  {
+    "ts": "2026-02-04T06:13:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T04:35:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T06:19:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T03:17:00",
+    "level": "ERROR",
+    "service": "email",
+    "msg": "smtp rejected",
+    "code": 502
+  },
+  {
+    "ts": "2026-02-05T02:33:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T03:23:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T02:26:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T03:45:00",
+    "level": "ERROR",
+    "service": "shipping",
+    "msg": "carrier timeout",
+    "code": 400
+  },
+  {
+    "ts": "2026-02-05T09:00:00",
+    "level": "ERROR",
+    "service": "email",
+    "msg": "smtp rejected",
+    "code": 408
+  },
+  {
+    "ts": "2026-02-04T01:09:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T06:00:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T07:21:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T14:32:00",
+    "level": "WARN",
+    "service": "shipping",
+    "msg": "partial data",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T20:04:00",
+    "level": "ERROR",
+    "service": "email",
+    "msg": "template not found",
+    "code": 403
+  },
+  {
+    "ts": "2026-02-05T06:01:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T12:36:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T23:41:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T23:20:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T17:23:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T06:27:00",
+    "level": "ERROR",
+    "service": "email",
+    "msg": "smtp rejected",
+    "code": 408
+  },
+  {
+    "ts": "2026-02-03T15:44:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T19:25:00",
+    "level": "WARN",
+    "service": "search",
+    "msg": "high latency",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T12:34:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T12:09:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T05:03:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T19:34:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T23:28:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T05:19:00",
+    "level": "ERROR",
+    "service": "payment",
+    "msg": "insufficient funds",
+    "code": 500
+  },
+  {
+    "ts": "2026-02-03T20:55:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T13:22:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T20:09:00",
+    "level": "WARN",
+    "service": "auth",
+    "msg": "high latency",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T00:50:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T20:14:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "token expired",
+    "code": 429
+  },
+  {
+    "ts": "2026-02-04T10:36:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T15:59:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T06:32:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T15:07:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T01:05:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T03:51:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T09:21:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T10:50:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "token expired",
+    "code": 400
+  },
+  {
+    "ts": "2026-02-03T20:17:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T12:58:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T07:17:00",
+    "level": "ERROR",
+    "service": "shipping",
+    "msg": "label generation failed",
+    "code": 408
+  },
+  {
+    "ts": "2026-02-05T02:59:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T06:16:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T17:51:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T21:55:00",
+    "level": "ERROR",
+    "service": "payment",
+    "msg": "signature mismatch",
+    "code": 400
+  },
+  {
+    "ts": "2026-02-04T11:20:00",
+    "level": "WARN",
+    "service": "payment",
+    "msg": "partial data",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T17:04:00",
+    "level": "WARN",
+    "service": "shipping",
+    "msg": "high latency",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T02:38:00",
+    "level": "WARN",
+    "service": "payment",
+    "msg": "partial data",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T01:53:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T02:35:00",
+    "level": "WARN",
+    "service": "payment",
+    "msg": "high latency",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T18:28:00",
+    "level": "WARN",
+    "service": "order",
+    "msg": "deprecated endpoint",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T06:48:00",
+    "level": "WARN",
+    "service": "auth",
+    "msg": "high latency",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T14:57:00",
+    "level": "ERROR",
+    "service": "order",
+    "msg": "duplicate order",
+    "code": 502
+  },
+  {
+    "ts": "2026-02-03T21:24:00",
+    "level": "ERROR",
+    "service": "email",
+    "msg": "template not found",
+    "code": 400
+  },
+  {
+    "ts": "2026-02-04T16:11:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "token expired",
+    "code": 429
+  },
+  {
+    "ts": "2026-02-04T04:21:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T04:13:00",
+    "level": "WARN",
+    "service": "email",
+    "msg": "slow response",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T21:02:00",
+    "level": "ERROR",
+    "service": "search",
+    "msg": "query timeout",
+    "code": 400
+  },
+  {
+    "ts": "2026-02-03T22:31:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T12:14:00",
+    "level": "WARN",
+    "service": "analytics",
+    "msg": "deprecated endpoint",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T12:40:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T01:30:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T12:29:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T13:49:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T12:37:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T22:08:00",
+    "level": "WARN",
+    "service": "email",
+    "msg": "high latency",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T09:59:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T18:25:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T03:51:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T01:42:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T13:02:00",
+    "level": "WARN",
+    "service": "shipping",
+    "msg": "slow response",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T14:48:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T17:58:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T20:25:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T01:34:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T02:55:00",
+    "level": "WARN",
+    "service": "shipping",
+    "msg": "partial data",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T10:28:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T23:56:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T02:44:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T10:30:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T17:00:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T02:17:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T17:22:00",
+    "level": "ERROR",
+    "service": "analytics",
+    "msg": "schema mismatch",
+    "code": 503
+  },
+  {
+    "ts": "2026-02-03T23:33:00",
+    "level": "WARN",
+    "service": "analytics",
+    "msg": "partial data",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T03:34:00",
+    "level": "ERROR",
+    "service": "shipping",
+    "msg": "carrier timeout",
+    "code": 503
+  },
+  {
+    "ts": "2026-02-04T17:08:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T22:25:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T03:59:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T15:28:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T04:30:00",
+    "level": "ERROR",
+    "service": "order",
+    "msg": "db deadlock",
+    "code": 403
+  },
+  {
+    "ts": "2026-02-04T23:35:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T06:11:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T05:45:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T18:08:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T18:42:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "user blocked",
+    "code": 503
+  },
+  {
+    "ts": "2026-02-04T13:37:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "user blocked",
+    "code": 502
+  },
+  {
+    "ts": "2026-02-03T20:44:00",
+    "level": "WARN",
+    "service": "analytics",
+    "msg": "deprecated endpoint",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T04:15:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T12:21:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T22:44:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T15:32:00",
+    "level": "ERROR",
+    "service": "search",
+    "msg": "index missing",
+    "code": 502
+  },
+  {
+    "ts": "2026-02-05T08:09:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T02:29:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T11:40:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T08:08:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T05:14:00",
+    "level": "ERROR",
+    "service": "shipping",
+    "msg": "label generation failed",
+    "code": 401
+  },
+  {
+    "ts": "2026-02-03T21:11:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T05:19:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T07:53:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T15:36:00",
+    "level": "WARN",
+    "service": "payment",
+    "msg": "deprecated endpoint",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T12:18:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T02:16:00",
+    "level": "ERROR",
+    "service": "analytics",
+    "msg": "bad payload",
+    "code": 429
+  },
+  {
+    "ts": "2026-02-03T16:39:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T22:50:00",
+    "level": "WARN",
+    "service": "email",
+    "msg": "high latency",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T12:43:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T08:23:00",
+    "level": "ERROR",
+    "service": "email",
+    "msg": "template not found",
+    "code": 408
+  },
+  {
+    "ts": "2026-02-03T15:11:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T13:25:00",
+    "level": "WARN",
+    "service": "auth",
+    "msg": "slow response",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T07:12:00",
+    "level": "ERROR",
+    "service": "shipping",
+    "msg": "label generation failed",
+    "code": 502
+  },
+  {
+    "ts": "2026-02-03T23:28:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T05:20:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T09:17:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T23:34:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T13:36:00",
+    "level": "WARN",
+    "service": "payment",
+    "msg": "high latency",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T21:16:00",
+    "level": "WARN",
+    "service": "analytics",
+    "msg": "partial data",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T17:34:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T04:06:00",
+    "level": "ERROR",
+    "service": "order",
+    "msg": "duplicate order",
+    "code": 503
+  },
+  {
+    "ts": "2026-02-03T19:06:00",
+    "level": "WARN",
+    "service": "payment",
+    "msg": "partial data",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T11:49:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T16:22:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T10:08:00",
+    "level": "ERROR",
+    "service": "order",
+    "msg": "duplicate order",
+    "code": 400
+  },
+  {
+    "ts": "2026-02-05T04:10:00",
+    "level": "ERROR",
+    "service": "analytics",
+    "msg": "event dropped",
+    "code": 502
+  },
+  {
+    "ts": "2026-02-04T17:36:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T00:30:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T13:55:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T13:06:00",
+    "level": "WARN",
+    "service": "search",
+    "msg": "high latency",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T10:32:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T09:59:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T16:51:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T12:28:00",
+    "level": "WARN",
+    "service": "auth",
+    "msg": "slow response",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T10:54:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T00:57:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T22:12:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T20:45:00",
+    "level": "ERROR",
+    "service": "order",
+    "msg": "duplicate order",
+    "code": 408
+  },
+  {
+    "ts": "2026-02-05T09:03:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T06:54:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T01:23:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T03:00:00",
+    "level": "WARN",
+    "service": "shipping",
+    "msg": "slow response",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T01:20:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T06:30:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T05:33:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T15:02:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T19:35:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T01:55:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "user blocked",
+    "code": 408
+  },
+  {
+    "ts": "2026-02-04T03:15:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T04:44:00",
+    "level": "ERROR",
+    "service": "order",
+    "msg": "duplicate order",
+    "code": 400
+  },
+  {
+    "ts": "2026-02-05T03:14:00",
+    "level": "ERROR",
+    "service": "analytics",
+    "msg": "event dropped",
+    "code": 408
+  },
+  {
+    "ts": "2026-02-04T23:17:00",
+    "level": "WARN",
+    "service": "order",
+    "msg": "deprecated endpoint",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T23:19:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "ok",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T17:28:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T14:20:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T03:01:00",
+    "level": "WARN",
+    "service": "order",
+    "msg": "slow response",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T15:57:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T12:52:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T20:50:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T15:52:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T22:41:00",
+    "level": "INFO",
+    "service": "payment",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T19:09:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T11:00:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T15:25:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T04:31:00",
+    "level": "INFO",
+    "service": "analytics",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T12:00:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "rate limited",
+    "code": 400
+  },
+  {
+    "ts": "2026-02-03T11:59:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T08:36:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "retry scheduled",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T18:40:00",
+    "level": "WARN",
+    "service": "email",
+    "msg": "slow response",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T01:53:00",
+    "level": "WARN",
+    "service": "shipping",
+    "msg": "partial data",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T18:03:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T03:47:00",
+    "level": "WARN",
+    "service": "email",
+    "msg": "partial data",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T12:05:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "cache miss",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T11:30:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "user blocked",
+    "code": 503
+  },
+  {
+    "ts": "2026-02-04T06:40:00",
+    "level": "WARN",
+    "service": "order",
+    "msg": "slow response",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T16:47:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T06:25:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "invalid password",
+    "code": 503
+  },
+  {
+    "ts": "2026-02-03T22:37:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "finished",
+    "code": null
+  },
+  {
+    "ts": "2026-02-03T15:19:00",
+    "level": "WARN",
+    "service": "analytics",
+    "msg": "partial data",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T15:47:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "cache hit",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T04:06:00",
+    "level": "ERROR",
+    "service": "payment",
+    "msg": "signature mismatch",
+    "code": 401
+  },
+  {
+    "ts": "2026-02-03T16:27:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "token expired",
+    "code": 403
+  },
+  {
+    "ts": "2026-02-03T20:18:00",
+    "level": "INFO",
+    "service": "order",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T02:16:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T23:30:00",
+    "level": "INFO",
+    "service": "auth",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T15:21:00",
+    "level": "INFO",
+    "service": "email",
+    "msg": "heartbeat",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T01:46:00",
+    "level": "INFO",
+    "service": "shipping",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-04T07:49:00",
+    "level": "INFO",
+    "service": "search",
+    "msg": "started",
+    "code": null
+  },
+  {
+    "ts": "2026-02-05T10:00:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "token expired",
+    "code": 401
+  },
+  {
+    "ts": "2026-02-05T10:00:00",
+    "level": "ERROR",
+    "service": "auth",
+    "msg": "invalid password",
+    "code": 401
+  },
+  {
+    "ts": "2026-02-05T10:00:00",
+    "level": "ERROR",
+    "service": "payment",
+    "msg": "timeout",
+    "code": 408
+  }
+]

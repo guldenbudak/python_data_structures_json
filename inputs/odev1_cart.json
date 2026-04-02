@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Powerbank",
+    "price": 49,
+    "qty": 4,
+    "category": "giyim"
+  },
+  {
+    "name": "Çay",
+    "price": 120,
+    "qty": 1,
+    "category": "market"
+  },
+  {
+    "name": "Losyon",
+    "price": 499,
+    "qty": 4,
+    "category": "giyim"
+  },
+  {
+    "name": "Mouse",
+    "price": 399,
+    "qty": 2,
+    "category": "giyim"
+  },
+  {
+    "name": "Pantolon",
+    "price": 79,
+    "qty": 1,
+    "category": "giyim"
+  },
+  {
+    "name": "Kahve",
+    "price": 399,
+    "qty": 1,
+    "category": "kozmetik"
+  },
+  {
+    "name": "Mouse",
+    "price": 699,
+    "qty": 4,
+    "category": "market"
+  },
+  {
+    "name": "Krem",
+    "price": 249,
+    "qty": 1,
+    "category": "kozmetik"
+  },
+  {
+    "name": "Hediye Paketi",
+    "price": 149,
+    "qty": 1,
+    "category": "kozmetik"
+  },
+  {
+    "name": "Şampuan",
+    "price": 699,
+    "qty": 2,
+    "category": "market"
+  },
+  {
+    "name": "Kurulum Hizmeti",
+    "price": 80,
+    "qty": 1,
+    "category": "hizmet"
+  },
+  {
+    "name": "Triko",
+    "price": 249,
+    "qty": 1,
+    "category": "giyim"
+  },
+  {
+    "name": "Kargo",
+    "price": 200,
+    "qty": 1,
+    "category": "hizmet"
+  },
+  {
+    "name": "Losyon",
+    "price": 349,
+    "qty": 1,
+    "category": "elektronik"
+  },
+  {
+    "name": "Su",
+    "price": 349,
+    "qty": 2,
+    "category": "giyim"
+  },
+  {
+    "name": "Powerbank",
+    "price": 1199,
+    "qty": 2,
+    "category": "kozmetik"
+  },
+  {
+    "name": "Klavye",
+    "price": 699,
+    "qty": 1,
+    "category": "market"
+  },
+  {
+    "name": "Pantolon",
+    "price": 899,
+    "qty": 2,
+    "category": "market"
+  },
+  {
+    "name": "Kazak",
+    "price": 1199,
+    "qty": 1,
+    "category": "market"
+  },
+  {
+    "name": "Hediye Paketi",
+    "price": 150,
+    "qty": 1,
+    "category": "hizmet"
+  },
+  {
+    "name": "Kargo",
+    "price": 80,
+    "qty": 1,
+    "category": "hizmet"
+  },
+  {
+    "name": "USB-C Kablo",
+    "price": 349,
+    "qty": 4,
+    "category": "market"
+  },
+  {
+    "name": "Kahve",
+    "price": 299,
+    "qty": 2,
+    "category": "market"
+  },
+  {
+    "name": "Çay",
+    "price": 120,
+    "qty": 4,
+    "category": "kozmetik"
+  },
+  {
+    "name": "Zeytinyağı",
+    "price": 120,
+    "qty": 1,
+    "category": "giyim"
+  },
+  {
+    "name": "Zeytinyağı",
+    "price": 149,
+    "qty": 1,
+    "category": "elektronik"
+  },
+  {
+    "name": "Elbise",
+    "price": 699,
+    "qty": 2,
+    "category": "kozmetik"
+  },
+  {
+    "name": "Elbise",
+    "price": 249,
+    "qty": 4,
+    "category": "elektronik"
+  },
+  {
+    "name": "Hediye Paketi",
+    "price": 149,
+    "qty": 1,
+    "category": "market"
+  },
+  {
+    "name": "Kahve",
+    "price": 349,
+    "qty": 2,
+    "category": "kozmetik"
+  },
+  {
+    "name": "Losyon",
+    "price": 249,
+    "qty": 3,
+    "category": "kozmetik"
+  },
+  {
+    "name": "Express Teslimat",
+    "price": 80,
+    "qty": 1,
+    "category": "hizmet"
+  },
+  {
+    "name": "Kazak",
+    "price": 1199,
+    "qty": 1,
+    "category": "giyim"
+  },
+  {
+    "name": "Mont",
+    "price": 899,
+    "qty": 4,
+    "category": "market"
+  },
+  {
+    "name": "Kargo",
+    "price": 79,
+    "qty": 2,
+    "category": "kozmetik"
+  },
+  {
+    "name": "Kargo",
+    "price": 90,
+    "qty": 1,
+    "category": "hizmet"
+  },
+  {
+    "name": "Kahve",
+    "price": 110,
+    "qty": 3,
+    "category": "market"
+  },
+  {
+    "name": "Kulaklık",
+    "price": 1500,
+    "qty": 1,
+    "category": "elektronik"
+  },
+  {
+    "name": "Çorap",
+    "price": 60,
+    "qty": 5,
+    "category": "giyim"
+  }
+]

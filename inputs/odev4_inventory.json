@@ -1,0 +1,42 @@
+{
+  "SKU123": {
+    "name": "Kulaklık",
+    "stock": 10,
+    "price": 500
+  },
+  "SKU456": {
+    "name": "Mouse",
+    "stock": 5,
+    "price": 300
+  },
+  "SKU789": {
+    "name": "Klavye",
+    "stock": 0,
+    "price": 800
+  },
+  "SKU321": {
+    "name": "USB-C Kablo",
+    "stock": 25,
+    "price": 120
+  },
+  "SKU654": {
+    "name": "Powerbank",
+    "stock": 2,
+    "price": 900
+  },
+  "SKU111": {
+    "name": "Monitör",
+    "stock": 3,
+    "price": 4500
+  },
+  "SKU222": {
+    "name": "Webcam",
+    "stock": 1,
+    "price": 1500
+  },
+  "SKU333": {
+    "name": "Laptop Stand",
+    "stock": 7,
+    "price": 650
+  }
+}
