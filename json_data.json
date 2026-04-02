@@ -1,0 +1,117 @@
+{
+   "ORD1000":{
+      "name":"Laptop Stand",
+      "stock":2,
+      "price":650
+   },
+   "ORD1001":{
+      "name":"Laptop Stand",
+      "stock":2,
+      "price":650
+   },
+   "ORD1003":{
+      "name":"Laptop Stand",
+      "stock":2,
+      "price":650
+   },
+   "ORD1004":{
+      "name":"Laptop Stand",
+      "stock":2,
+      "price":650
+   },
+   "ORD1006":{
+      "name":"Laptop Stand",
+      "stock":2,
+      "price":650
+   },
+   "ORD1008":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1009":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1010":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1012":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1013":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1014":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1015":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1016":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1017":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1018":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1019":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1020":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1021":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1022":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1023":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1025":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1026":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   },
+   "ORD1027":{
+      "name":"USB-C Kablo",
+      "stock":2,
+      "price":120
+   }
+}
